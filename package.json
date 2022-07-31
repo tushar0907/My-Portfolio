@@ -10,9 +10,7 @@
         "start": "next start",
         "export": "yarn run build && next export && mvout_static"
     },
-    "engines": {
-        "node": "16.14.0"
-    },
+
     "dependencies": {
         "next": "^12.2.2",
         "prism-theme-night-owl": "^1.4.0",
